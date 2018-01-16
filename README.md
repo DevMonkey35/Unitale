@@ -1,8 +1,7 @@
-#Unitale - Lua moddable Undertale engine
+This text written by lvk (reddit)
 
-Welcome to the Git repository for Unitale! In the coming week, a more detailed write-up about open sourcing will be done.
 
-In the meantime, you'll want to load the ModSelect scene from the Scenes folder. In the Battle scene, a script is attached to the Main Camera for loading a mod immediately from within the scene.
+#Unitale - Lua moddable Undertale engine + Will be UniWord
 
 ##Required files
 
@@ -15,3 +14,5 @@ http://www.mediafire.com/download/6cfsv7pggfodcwx/Undertale_Assets_and_Example_M
 
 Unitale is released under the GNU General Public License 3.0.
 We are using MoonSharp as our Lua interpreter, written by Marco Mastropaolo. The binary is included in /Assets/Plugins. License details in MOONSHARP_LICENSE.
+
+Actually this is lvk's license. It is not mine. And I don't know how to add licenses...
